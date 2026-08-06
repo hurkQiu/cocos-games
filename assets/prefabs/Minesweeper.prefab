@@ -1,0 +1,117 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "Minesweeper",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "persistent": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Minesweeper",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_lpos": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_lrot": {
+      "__type__": "cc.Quat",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "_lscale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "_layer": 1073741824,
+    "_euler": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_id": "uf4ERRy/TGiak+gDFnyXyw"
+  },
+  {
+    "__type__": "cc.UITransform",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "__prefab": null,
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1920,
+      "height": 1080
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_id": "PInSQSbZ0tv0Le6k+SlzsA"
+  },
+  {
+    "__type__": "c2f67+gIm9BPamppbM3o7e8",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "__prefab": null,
+    "sfBtnNormal": {
+      "__uuid__": "63423590-1bb5-4dab-9084-227e826d3d27@f9941"
+    },
+    "sfBtnPressed": {
+      "__uuid__": "c7bc4e93-467b-4922-89f0-ea6a30c034f2@f9941"
+    },
+    "sfBtnDisabled": {
+      "__uuid__": "36f7aaf8-5439-4978-b841-9279689e4be1@f9941"
+    },
+    "sfRadioOff": {
+      "__uuid__": "e8d32c86-3075-4c53-8fb7-ecb2e095fcc5@f9941"
+    },
+    "sfRadioOn": {
+      "__uuid__": "9f886bb2-b7d6-4a7e-947d-cedd735660df@f9941"
+    },
+    "_id": "RJUSLK1NHGjdT3lIZhuRDw"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "6fb4a03e-5d7a-46f3-bff3-75582a4c2042"
+    },
+    "fileId": "9CJzZinZ2qb0rmdVA9OF+g",
+    "instance": null
+  }
+]

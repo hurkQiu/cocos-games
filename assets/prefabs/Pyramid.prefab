@@ -1,0 +1,114 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "Pyramid",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "persistent": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Pyramid",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_lpos": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_lrot": {
+      "__type__": "cc.Quat",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "_lscale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "_layer": 1073741824,
+    "_euler": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_id": "thUIMWkO0+zvlZ/7taQodA"
+  },
+  {
+    "__type__": "2e78dCG1s1A3Ibbg1bSYUXh",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "__prefab": null,
+    "cardPrefab": {
+      "__uuid__": "71f889a3-2882-4431-b417-ba9904e63e76"
+    },
+    "sfBtnNormal": {
+      "__uuid__": "63423590-1bb5-4dab-9084-227e826d3d27@f9941"
+    },
+    "sfBtnPressed": {
+      "__uuid__": "c7bc4e93-467b-4922-89f0-ea6a30c034f2@f9941"
+    },
+    "sfBtnDisabled": {
+      "__uuid__": "36f7aaf8-5439-4978-b841-9279689e4be1@f9941"
+    },
+    "_id": "AeKYTqNexBDvrfXCb3VIAg"
+  },
+  {
+    "__type__": "cc.UITransform",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "__prefab": null,
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1920,
+      "height": 1080
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_id": "PyrUiTr4nsf0rmPyr4mid1"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "e48fbc4f-6dfe-43b0-a088-8155e15da4c9"
+    },
+    "fileId": "6HA3fdNnCmigQXOUhCTduw",
+    "instance": null
+  }
+]
